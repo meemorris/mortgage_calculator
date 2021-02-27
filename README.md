@@ -1,6 +1,6 @@
 # Mortgage Calculator
 
-This was my first side project as a student at Tech Elevator.
+Currently a student at Tech Elevator. This was my first project that I developed on my own.
 This mortgage calculator console application was developed in Java and designed following OOP. 
 For the variables representing monetary values, used Java BigDecimal.
 
